@@ -9,8 +9,8 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-icon.git",
-  "author": "leadream",
+  "repository": "https://github.com/chankakit/juuust-icon.git",
+  "author": "BiaoGe",
   "keywords": [
     "react",
     "icons",
@@ -21,9 +21,9 @@
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/leadream/juuust-icon/issues"
+    "url": "https://github.com/chankakit/juuust-icon/issues"
   },
-  "homepage": "https://github.com/leadream/juuust-icon#readme",
+  "homepage": "https://www.baidu.com",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "build:bundle": "sudo rm -rf dist && rollup --config rollup.config.js",
